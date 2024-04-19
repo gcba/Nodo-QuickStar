@@ -181,9 +181,9 @@ A este componente se le deben configurar las siguientes variables:
 12. ACCOUNT_ADDRESS:
     - Valor: 0x9CAA73a4865fa9dbb125b6C7B2f03b6621234
     - Descripción: Address de la clave privada anterior
-13. LEDGER_TYPE: 
-   - Valor: zksync | rsk | eth
-   - Descripción: Red blockchain a utilizar 
+13. LEDGER_TYPE:
+    - Valor: zksync | rsk | eth
+    - Descripción: Red blockchain a utilizar 
 
 ### MongoDB
 Este componente no tiene configuraciones adicionales.
