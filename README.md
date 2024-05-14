@@ -11,7 +11,7 @@ con creces los límites de las implementaciones de primera capa.
 La red QuarkID se ancla en [*zkSync*](https://zksync.io/), un protocolo de segunda capa seguro y escalable
 para Ethereum. Aprovechamos las capacidades de *zkSync* para permitir transacciones
 de bajo costo y alta velocidad, proporcionando así una infraestructura de utilidad
-eficiente para nuestra red y su adop
+eficiente para nuestra red y su adopción a gran escala. 
 
 ## Descripción de la red de anclaje 
 La red Quarkid está contruída sobre la base de la blockchain zkSync, con el objetivo de proporcionar estabilizar y eficiencia. También soporta otro tipo de redes, como RSK y cualquier ETH compatible. 
