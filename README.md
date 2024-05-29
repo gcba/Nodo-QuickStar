@@ -14,7 +14,7 @@ de bajo costo y alta velocidad, proporcionando así una infraestructura de utili
 eficiente para nuestra red y su adopción a gran escala. 
 
 ## Descripción de la red de anclaje 
-La red Quarkid está contruída sobre la base de la blockchain zkSync, con el objetivo de proporcionar estabilizar y eficiencia. También soporta otro tipo de redes, como RSK y cualquier ETH compatible. 
+La red Quarkid está contruída sobre la base de la blockchain zkSync, con el objetivo de proporcionar estabilización, y eficiencia. También soporta otro tipo de redes, como RSK y cualquier ETH compatible. 
 Esta arquitectura de red está diseñada para apoyar un alto volumen de operaciones DID con tiempos de confirmación de transacciones rápidas y costos de transacción mínimos.
 Para permitir la interacción en la red, hemos desplegado dos contratos inteligentes en la blockchain zkSync, uno para la red principal (Mainnet) y otro para la red de pruebas (Tesnet). Estos contratos inteligentes facilitan la creación, actualización y revocación de DIDs en la red, además de proporcionar la funcionalidad necesaria para anclar y resolver DIDs utilizando Sidetree. 
 
